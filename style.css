@@ -1,0 +1,73 @@
+/* .main{
+    border: 2px solid grey;
+    width: 250px;
+    margin: 0 auto;
+} */
+/* .result{
+    width: 100%;
+    background-color: grey;
+    color: #fff ;
+} */
+/* .clearBtn{
+    width: 100%;
+    margin-top: 10px;
+    background-color: grey;
+} */
+/* .btn{
+    background-color: grey;
+    width: 60px;
+    margin: 1px;
+
+} */
+/* .halfBtn{
+    background-color: grey;
+    width: 97px;
+    margin-top: 1px;
+} */
+
+/* media queries */
+
+/*  
+@media screen and (min-width:500px)
+{
+    .calculator
+    {
+        width: 50%;
+        height: 40%;
+    }
+}
+
+@media screen and (min-width: 768px)
+{
+    .calculator
+    {
+        width: 50%;
+        
+    }
+    .functional-buttons
+    {
+        position: relative;
+        left: 35px;
+      
+    }
+}
+@media screen and (min-width: 769px) and (max-width: 1170px)
+{
+    .calculator
+    {
+        width: 40%;
+    }
+}
+@media screen and (min-width: 1171px)
+{
+    .calculator
+    {
+        width: 30%;
+    }
+    .functional-buttons
+    {
+        position: relative;
+        left: 55px;
+      
+    }
+}   
